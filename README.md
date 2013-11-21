@@ -5,11 +5,12 @@ Regression model for Barclay's Premier League. Using Python, Pandas, StatsModels
 
 This repository contains the source code for the model, all original plots and summaries, original datasets, presentation in PDF form, and analysis.
 
-####Author & License
+####Author
 ==============
 
 Author: Christopher Clouten || @triplec1988 || triplec1988 [at] gmail [dot] com
 
+####License
 ==============
 
 Copyright 2013 Christopher Clouten
